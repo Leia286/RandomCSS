@@ -4,4 +4,5 @@ This is a WIP. We just relesed the first prerelease version, with one hand-coded
 Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>
 <hr>
 Stylesheets:
-1. StarWars.css This .css file is a simple file to help with formatting opening crawls.
+1. StarWars.css This .css file is a simple file to help with formatting Star Wars styled opening crawls.
+2. Sans-serif.css This makes all text be sans-serif unless overided manually.
