@@ -1,6 +1,13 @@
-.sw-crawl{
-  
+
+sw-crawl{
+  color:yellow;
+  background-color:black;
+  font-family:sans-serif;
 }
 .sw-title-crawl{
-  
+color:yellow;  
+  background-color:black;
+  text-decoration: overline;
+  text-decoration: underline;
+  font-family:sans-serif;
 }
