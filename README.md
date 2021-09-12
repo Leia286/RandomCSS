@@ -8,3 +8,4 @@ Stylesheets:<br>
 <br>
 2. Sans-serif.css This makes all text be sans-serif unless overided manually.
 <br>
+3. Night1.css This is used on the homepage for this repo, and is a black and white basic style dependent on Bootstrap if you want it to look like the homepage without writing extra code.
