@@ -1,4 +1,6 @@
 # RandomCSS
 CSS style sheets for web development.
-This is a messy WIP. We just relesed the first prerelease version, with one hand-coded stylesheet.
-
+This is a WIP. We just relesed the first prerelease version, with one hand-coded stylesheet.
+Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>
+Stylesheets:
+1. StarWars.css This .css file is a simple file to help with formatting opening crawls.
