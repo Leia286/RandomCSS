@@ -5,4 +5,6 @@ Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>
 <hr>
 Stylesheets:
 1. StarWars.css This .css file is a simple file to help with formatting Star Wars styled opening crawls.
+<br>
 2. Sans-serif.css This makes all text be sans-serif unless overided manually.
+<br>
