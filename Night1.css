@@ -12,5 +12,5 @@ font-family:sans-serif;}
           .center{
               text-align:center;
           }
-code{font-family: 'Source Code Pro', monospace;}
+code{font-family: 'Source Code Pro', monospace; color:white; background-color: rgb(92, 91, 88);}
 h1,small{font-family: 'Roboto', sans-serif;}
