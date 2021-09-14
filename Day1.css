@@ -2,6 +2,7 @@ body{
   text-align:center; 
   background-color:rgb(245, 234, 152); 
   font-family:sans-serif;
+  color:black;
 }
   /*use a light yellow background color*/
   .golden-hr{ 
