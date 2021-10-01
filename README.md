@@ -1,6 +1,6 @@
 # RandomCSS
 CSS style sheets for web development.
-This is a WIP. We just relesed the second prerelease version, with one hand-coded stylesheet.
+This is a WIP. We just relesed the second prerelease version!
 Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>
 <hr>
 Stylesheets:<br>
