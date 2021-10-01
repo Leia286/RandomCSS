@@ -10,7 +10,11 @@ updates:
   uses: "release-drafter/release-drafter@v5.15.0"
     schedule:
       interval: "daily"
-    # Raise all npm pull requests with custom labels
+    
     labels:
       - "release-drafter dependencies"
       - "triage-board"
+- package-ecosystem: welcome-new-contributors
+  uses: garg3133/welcome-new-contributors@v1.2
+schedule:
+      interval: "daily"
