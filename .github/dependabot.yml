@@ -2,10 +2,15 @@
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
 # https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-
+      
 version: 5.15.0
 updates:
-  '-' name: "Release Drafter"
+  - package-ecosystem: "Release Drafter"
+  directory: "/"
   uses: "release-drafter/release-drafter@v5.15.0"
     schedule:
       interval: "daily"
+    # Raise all npm pull requests with custom labels
+    labels:
+      - "release-drafter dependencies"
+      - "triage-board"
