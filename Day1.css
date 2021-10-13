@@ -1,3 +1,8 @@
+/*Please install these Google Fonts before use
+- Roboto
+- Source Code Pro
+The latter is only need if you are using the <code> tag, or the .mono class.
+*/
 body{
   text-align:center; 
   background-color:rgb(245, 234, 152); 
@@ -16,6 +21,10 @@ body{
               text-align:center;
           }
 code{
+  font-family: 'Source Code Pro', monospace;
+}
+/*Just incase you need monospace and not a code tag*/
+.mono{
   font-family: 'Source Code Pro', monospace;
 }
 
