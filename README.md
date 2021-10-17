@@ -1,4 +1,5 @@
 # RandomCSS
+[![Open Source Helpers](https://www.codetriage.com/leia286/randomcss/badges/users.svg)](https://www.codetriage.com/leia286/randomcss)
 CSS style sheets for web development.
 This is a WIP. We just relesed the second prerelease version!
 Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>
