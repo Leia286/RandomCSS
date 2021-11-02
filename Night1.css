@@ -1,6 +1,11 @@
 /* This CSS is used in the homepage for the RandomCSS repo
 https://leia286.github.io/CSS-Home.html
-The homepage is dependent on Bootstrap CSS for the nav bar and 90% of the rest of the code (don't quote me on that number, I didn't do the math), but here's the rest of the code, that's not Bootstrap.
+The homepage is dependent on Bootstrap CSS for the nav bar and 90% of the rest of the code
+(don't quote me on that number, I didn't do the math), but here's the rest of the code, that's not Bootstrap.
+Please install these Google Fonts before use
+- Roboto
+- Source Code Pro
+The latter is only need if you are using the <code> tag, or the .mono class.
 */
           body{background-color:black;
               color:white;
