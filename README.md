@@ -6,10 +6,10 @@ Here is the lead coder's stats. If you contribute a lot on the repo, I might add
 [![Leia286's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leia286)](https://github.com/Leia286/github-readme-stats)
 
 # All Coders
-If you contribute at all, your username should be added here, assuming the contrib.rocks badge works.
+If you contribute at all, your username should be added here, assuming the contrib.rocks badge works. <br>
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Leia286/RandomCSS)<br>
 
-CSS style sheets for web development.
+# CSS style sheets for web development.
 More code is still being written. We just relesed the second prerelease version!
 Our Homepage is <a href="https://leia286.github.io/CSS-Home.html">here</a>, not in the docs, as we have better CSS formating there. The homepage is also a WIP, with fill text.
 <hr>
