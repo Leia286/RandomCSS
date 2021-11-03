@@ -1,5 +1,5 @@
 # RandomCSS
-[![Open Source Helpers](https://www.codetriage.com/leia286/randomcss/badges/users.svg)](https://www.codetriage.com/leia286/randomcss) ![Commit Activity](https://img.shields.io/github/commit-activity/m/Leia286/RandomCSS?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Leia286/RandomCSS?style=plastic)
+[![Open Source Helpers](https://www.codetriage.com/leia286/randomcss/badges/users.svg)](https://www.codetriage.com/leia286/randomcss) ![Commit Activity](https://img.shields.io/github/commit-activity/m/Leia286/RandomCSS?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Leia286/RandomCSS?style=plastic) ![Lines of Code](https://img.shields.io/tokei/lines/github/Leia286/RandomCSS)
 <br>
 Here is the lead coder's stats. If you contribute a lot on the repo, I might add your username up here. This is the Hall of Fame for coders who put in a lot of code.
 [![Leia286's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leia286)](https://github.com/Leia286/github-readme-stats)
